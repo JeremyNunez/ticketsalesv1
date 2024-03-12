@@ -1,5 +1,7 @@
 # Instrucciones para proporcionar una contraseña al conectarse a la base de datos MySQL en Node.js
 
+El proyecto está en la rama master
+
 En este proyecto, utilizamos Sequelize como ORM (Mapeo Objeto-Relacional) para conectarnos a una base de datos MySQL desde una aplicación Node.js. A continuación, se describen los pasos para proporcionar una contraseña al conectarse a la base de datos.
 
 ## Configuración inicial
